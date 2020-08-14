@@ -7,10 +7,20 @@
         "name": "Yehuda Chikvashvili",
         "url": "https://github.com/iYehuda"
     },
+    "publisher": "Yehuda Chikvashvili",
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#00b894",
         "theme": "dark"
+    },
+    "homepage": "https://github.com/iYehuda/superpack-extension-pack/blob/master/README.md",
+    "bugs": {
+        "email": "yehudaac1@gmail.com",
+        "url": "https://github.com/iYehuda/superpack-extension-pack/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iYehuda/superpack-extension-pack.git"
     },
     "version": "0.0.1",
     "license": "SEE LICENSE IN LICENSE.txt",
